@@ -1,7 +1,4 @@
 Desafio VB6 - Sistema de Transações
-
-Projeto desenvolvido como parte de um desafio técnico para vaga de Desenvolvedor Pleno, utilizando **Visual Basic 6** com **SQL Server**.
-
 ---
 
 Tecnologias utilizadas
